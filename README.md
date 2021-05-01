@@ -1,3 +1,4 @@
 # Capstoneproject
-#simplilearn capstone project 
-#ICIN BANKING SYSTEM
+# simplilearn capstone project 
+
+# ICIN BANKING SYSTEM
